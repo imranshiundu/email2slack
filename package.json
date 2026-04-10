@@ -1,0 +1,9 @@
+{
+  "name": "email2slack",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
